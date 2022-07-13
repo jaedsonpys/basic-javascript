@@ -1,0 +1,4 @@
+Boas práticas:
+
+- Separar o arquivo JavaScript do HTML;
+- Carregar o script no final da tag <body>;

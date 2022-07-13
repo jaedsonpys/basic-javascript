@@ -1,0 +1,13 @@
+O que é o Javascript?
+
+JavaScript é uma linguagem de alto nível, amplamente usada em 
+desenvolvimento web e aplicativos.
+
+Como surgiu?
+
+Em 1995, Brendan Eich trabalhava na NetScape, implementou uma linguagem de programação
+chamada Mocha, que mudou de nome para LiveScript, e JavaScript posteriormente.
+
+Pra que serve?
+
+Para criar scripts dinâmicos que realizam a interação de apps ou páginas web.
